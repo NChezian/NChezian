@@ -1,18 +1,15 @@
-<!-- Header -->
-<div align="center">
 Hey, I'm Nikhil 👋
 ML Engineer · AI Systems · Cloud & Automation · Enterprise Delivery
-Building intelligent systems that actually work — from messy data to reliable pipelines.
-📍 Germany  |  🌐 EN · DE  |  🟢 Open to new opportunities
-</div>
+> Building intelligent systems that actually work — from messy data to reliable pipelines.
+📍 Heidelberg, Germany  ·  🌐 EN · DE  ·  🟢 Open to new opportunities
 ---
 🧠 What I Do
-🔁  ML Pipelines — end-to-end training, feature engineering, model evaluation
-💬  NLP & Text AI — classification, sentiment analysis, TF-IDF, transformers
-👁️  Computer Vision — object detection, OpenCV, image preprocessing, CNNs
-☁️  Cloud & Automation — Azure, AWS, n8n, Power Automate, CI/CD scripting
-🏢  Enterprise IT Delivery — ITSM, incident management, platform rollouts
-📊  Data & Analytics — EDA, synthetic data generation, Streamlit dashboards
+🔁 ML Pipelines — end-to-end training, feature engineering, model evaluation
+💬 NLP & Text AI — classification, sentiment analysis, TF-IDF, transformers
+👁️ Computer Vision — object detection, OpenCV, image preprocessing, CNNs
+☁️ Cloud & Automation — Azure, AWS, n8n, Power Automate, CI/CD scripting
+🏢 Enterprise IT Delivery — ITSM, incident management, platform rollouts
+📊 Data & Analytics — EDA, synthetic data generation, Streamlit dashboards
 ---
 🛠️ Tech Stack
 Languages & ML
@@ -39,17 +36,11 @@ Tools & Frameworks
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ---
 📈 GitHub Stats
-<div align="center">
 ![NChezian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NChezian&show_icons=true&theme=github_dark&hide_border=true&title_color=e8a44a&icon_color=58d6c8&text_color=e6edf3&bg_color=0d1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NChezian&layout=compact&theme=github_dark&hide_border=true&title_color=e8a44a&text_color=e6edf3&bg_color=0d1117)
-</div>
 ---
 🔗 Let's Connect
-<div align="center">
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-</div>
 ---
-<div align="center">
-<sub>⚡ Always building · Always shipping</sub>
-</div>
+⚡ Always building · Always shipping
